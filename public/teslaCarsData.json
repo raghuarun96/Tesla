@@ -1,0 +1,204 @@
+{
+  "teslaFlagshipCars": [
+    {
+      "model": "Model S Plaid",
+      "year": 2024,
+      "price": "$94,990",
+      "range": "396 miles",
+      "topSpeed": "200 mph",
+      "0to60": "1.99",
+      "horsepower": "1020 hp",
+      "performance": {
+        "description": "The Model S Plaid is Tesla's fastest sedan, with a tri-motor setup delivering incredible acceleration. It goes from 0 to 60 mph in just 1.99 seconds, making it one of the quickest cars on the market."
+      },
+      "features": [
+        {
+          "featureName": "Autopilot",
+          "description": "Tesla's Autopilot offers advanced driver-assistance features, such as automatic lane-keeping and adaptive cruise control, making driving safer and less stressful."
+        },
+        {
+          "featureName": "Full Self-Driving (FSD) Capability",
+          "description": "Full Self-Driving (FSD) provides advanced navigation on highways and city streets, enabling autonomous driving with minimal driver intervention."
+        },
+        {
+          "featureName": "Tri-Motor All-Wheel Drive",
+          "description": "The tri-motor all-wheel drive ensures excellent traction and power distribution, resulting in better handling and acceleration in all weather conditions."
+        },
+        {
+          "featureName": "22-speaker audio system",
+          "description": "A premium 22-speaker audio system with active noise cancellation delivers high-quality sound throughout the cabin for an immersive audio experience."
+        },
+        {
+          "featureName": "Glass roof",
+          "description": "The glass roof extends the length of the car, providing a panoramic view while offering UV and infrared protection, enhancing the cabin’s spaciousness."
+        }
+      ],
+      "interior": "The Model S Plaid features a luxurious interior with a minimalist design, a 17-inch touchscreen, premium materials, and spacious seating for five passengers.",
+      "exterior": "Its sleek, aerodynamic design is paired with Tesla's signature flush door handles and streamlined body, optimizing the vehicle for efficiency and performance.",
+      "engineCapacity": "The Model S Plaid's tri-motor powertrain produces over 1,020 horsepower, ensuring top-tier acceleration and performance.",
+      "safety": "With numerous safety features like collision avoidance, automatic emergency braking, and a robust chassis, it is designed for maximum passenger safety.",
+      "durability": "Tesla's durable build quality, combined with a reinforced battery pack and rust-resistant body, ensures longevity in all driving conditions.",
+      "imageUrl": "https://assets.zappyride.com/img/vehicles/chromestyle/433992/style-set-1280/2023TSC020006_1280_01.png"
+    },
+    {
+      "model": "Model X Plaid",
+      "year": 2024,
+      "price": "$99,990",
+      "range": "333 miles",
+      "topSpeed": "163 mph",
+      "0to60": "2.5",
+      "horsepower": "1020 hp",
+      "performance": {
+        "description": "The Model X Plaid offers SUV-level performance with a tri-motor system delivering fast acceleration. It can hit 0 to 60 mph in just 2.5 seconds, making it the fastest SUV in Tesla's lineup."
+      },
+      "features": [
+        {
+          "featureName": "Falcon Wing doors",
+          "description": "The unique Falcon Wing doors allow for easy access to the rear seats, even in tight parking spaces. They are equipped with sensors to detect obstacles."
+        },
+        {
+          "featureName": "Autopilot",
+          "description": "Advanced driver-assistance features like automatic steering, lane centering, and traffic-aware cruise control make long drives easier and safer."
+        },
+        {
+          "featureName": "Full Self-Driving (FSD) Capability",
+          "description": "FSD enables the car to navigate on city streets and highways with minimal driver intervention, constantly improving via over-the-air software updates."
+        },
+        {
+          "featureName": "Tri-Motor All-Wheel Drive",
+          "description": "The tri-motor all-wheel drive provides superior acceleration and precise handling, delivering optimal torque to each wheel for better traction."
+        },
+        {
+          "featureName": "17-inch touchscreen",
+          "description": "The 17-inch touchscreen allows drivers to control everything from media to climate control, with a high-resolution display for a seamless user experience."
+        }
+      ],
+      "interior": "The Model X Plaid’s interior features three rows of seating for up to seven passengers, a 17-inch central touchscreen, and luxurious materials throughout.",
+      "exterior": "Its bold and futuristic design, along with the iconic Falcon Wing doors, sets it apart as one of the most innovative SUVs available today.",
+      "engineCapacity": "The tri-motor system delivers 1,020 horsepower, providing powerful acceleration and top-tier handling for an SUV of this size.",
+      "safety": "With features like automatic emergency braking, side-collision warning, and a low center of gravity due to the battery placement, safety is prioritized.",
+      "durability": "The Model X’s rugged construction and reinforced structure make it highly durable, while the all-electric powertrain ensures long-term reliability.",
+      "imageUrl": "./download_x_car.png"
+    },
+    {
+      "model": "Cybertruck",
+      "year": 2024,
+      "price": "$69,900",
+      "range": "500+ miles",
+      "topSpeed": "130 mph",
+      "0to60": "2.9",
+      "horsepower": "800+ hp",
+      "performance": {
+        "description": "The Cybertruck offers incredible performance for a pickup truck, with the ability to go from 0 to 60 mph in 2.9 seconds and a range of over 500 miles on a single charge."
+      },
+      "features": [
+        {
+          "featureName": "Exoskeleton body",
+          "description": "Made from ultra-hard stainless steel, the exoskeleton body provides unmatched durability and strength, capable of withstanding extreme conditions."
+        },
+        {
+          "featureName": "Adaptive air suspension",
+          "description": "The adaptive air suspension can raise or lower the vehicle for improved ground clearance and a smoother ride, especially during off-road adventures."
+        },
+        {
+          "featureName": "Full Self-Driving (FSD) Capability",
+          "description": "FSD enables autonomous navigation on highways and city streets, with the ability to handle complex driving tasks through over-the-air software updates."
+        },
+        {
+          "featureName": "Six seats",
+          "description": "The Cybertruck's spacious interior accommodates up to six passengers, offering ample legroom and comfort for both work and leisure trips."
+        },
+        {
+          "featureName": "Vault storage",
+          "description": "The secure vault storage provides a large enclosed area for cargo, making it ideal for transporting tools and equipment in a safe and secure manner."
+        }
+      ],
+      "interior": "The Cybertruck’s interior is minimalist and functional, with a large central touchscreen and durable materials designed to handle rugged use.",
+      "exterior": "The angular design and stainless steel body make the Cybertruck one of the most unique vehicles on the market, combining aesthetics with function.",
+      "engineCapacity": "The all-electric powertrain produces over 800 horsepower, providing immense towing capacity and off-road capabilities.",
+      "safety": "Tesla’s advanced safety systems, including collision avoidance and autopilot, combine with the Cybertruck’s strong exoskeleton for superior protection.",
+      "durability": "The stainless steel body and impact-resistant glass windows are built to last, providing durability that far exceeds typical trucks.",
+      "imageUrl": "https://www.cybertruckownersclub.com/forum/attachments/copper-tinted-clear-ct-png.41142/"
+    },
+    {
+      "model": "Roadster",
+      "year": 2024,
+      "price": "$200,000",
+      "range": "620 miles",
+      "topSpeed": "250 mph",
+      "0to60": "1.9",
+      "horsepower": "2000 hp",
+      "performance": {
+        "description": "The Tesla Roadster is the fastest car in Tesla’s lineup, with a top speed of 250 mph and acceleration from 0 to 60 mph in just 1.9 seconds."
+      },
+      "features": [
+        {
+          "featureName": "Removable glass roof",
+          "description": "The removable glass roof allows for an open-air driving experience, giving the Roadster the versatility of a coupe and a convertible."
+        },
+        {
+          "featureName": "Autopilot",
+          "description": "Tesla’s Autopilot provides advanced driver assistance, including lane keeping, automatic braking, and traffic-aware cruise control."
+        },
+        {
+          "featureName": "Full Self-Driving (FSD) Capability",
+          "description": "FSD provides autonomous driving capabilities, allowing the Roadster to navigate complex environments with minimal driver input."
+        },
+        {
+          "featureName": "Quad Motor All-Wheel Drive",
+          "description": "The quad motor setup delivers superior handling and power, with each wheel independently controlled for precise torque distribution."
+        },
+        {
+          "featureName": "SpaceX package (optional)",
+          "description": "The optional SpaceX package adds rocket propulsion for improved acceleration, taking the Roadster’s performance to the next level."
+        }
+      ],
+      "interior": "The Roadster’s interior is designed for performance, with seating for four, a minimalist dashboard, and high-end materials for luxury comfort.",
+      "exterior": "With a sleek, aerodynamic design, the Roadster embodies speed and elegance, with a body built for extreme performance and style.",
+      "engineCapacity": "With 2,000 horsepower from its quad motor setup, the Roadster delivers the highest power output of any Tesla vehicle.",
+      "safety": "Advanced safety features, including Autopilot and collision avoidance, combine with a low center of gravity to enhance stability and protection.",
+      "durability": "Tesla’s high-quality construction ensures long-term durability, with an all-electric powertrain that minimizes mechanical wear and tear.",
+      "imageUrl": "./readstar.png"
+    },
+    {
+      "model": "Model 3 Performance",
+      "year": 2024,
+      "price": "$58,990",
+      "range": "315 miles",
+      "topSpeed": "162 mph",
+      "0to60": "3.1 seconds",
+      "horsepower": "480 hp",
+      "performance": {
+        "description": "The Model 3 Performance is Tesla’s compact, high-performance sedan with dual motors that provide rapid acceleration and superior handling."
+      },
+      "features": [
+        {
+          "featureName": "Autopilot",
+          "description": "Autopilot provides semi-autonomous driving features, such as automatic lane-keeping, adaptive cruise control, and collision avoidance."
+        },
+        {
+          "featureName": "Full Self-Driving (FSD) Capability",
+          "description": "Full Self-Driving allows the car to navigate city streets and highways with little driver input, constantly improving with software updates."
+        },
+        {
+          "featureName": "Dual Motor All-Wheel Drive",
+          "description": "The dual-motor system provides better traction and stability, especially in adverse weather conditions, making driving safer and smoother."
+        },
+        {
+          "featureName": "15-inch touchscreen",
+          "description": "The central 15-inch touchscreen controls all vehicle functions, including media, navigation, and climate control, with a clean and intuitive interface."
+        },
+        {
+          "featureName": "Sporty suspension",
+          "description": "The performance-tuned suspension offers a smoother ride and better handling, ideal for high-speed driving and cornering."
+        }
+      ],
+      "interior": "The Model 3 Performance offers a minimalist interior with premium materials, a large central touchscreen, and ample legroom for passengers.",
+      "exterior": "Its aerodynamic design is optimized for performance and efficiency, with clean lines and sleek proportions that make it stand out on the road.",
+      "engineCapacity": "The dual motor system generates 480 horsepower, delivering excellent acceleration and handling in all driving conditions.",
+      "safety": "Tesla’s advanced safety systems, including collision detection, lane keeping, and emergency braking, ensure maximum passenger protection.",
+      "durability": "Built with Tesla’s durable battery technology and robust body structure, the Model 3 Performance is designed to last for years with minimal maintenance.",
+      "imageUrl": "./Tesla-Model-3-PNG-Photo-Image.png"
+    }
+  ]
+}
