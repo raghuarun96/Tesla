@@ -1,7 +1,7 @@
 //header
 
 * {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins' !important;
 }
 //Landing Page
 .MuiToolbar-root {
@@ -1159,8 +1159,14 @@
       }
     }
     .features-overview {
+      background: #fff;
+      color: #000;
       padding: 2rem;
-      background: #f9f9f9;
+      margin-right: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px #0000001a;
+      margin-bottom: 20px;
+      transition: transform 0.2s;
     }
   }
 

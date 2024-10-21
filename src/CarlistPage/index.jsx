@@ -88,11 +88,11 @@ const CarsListPage = () => {
     <div className="car-card" onClick={() => handleDetail(car)}>
       <div className="car-image">
         <img src={car?.imageUrl} alt={car.model} />
+      </div>
+      <div className="car-details">
         <div className="car-model">
           <h2>{car.model}</h2>
         </div>
-      </div>
-      <div className="car-details">
         <div className="specs-grid">
           <div className="spec-item">
             <Timer size={20} />
